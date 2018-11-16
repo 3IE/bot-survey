@@ -1,0 +1,15 @@
+{
+    "name": "SurveyBot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "5a1530c0-7f8b-11e8-ade6-b3442de0e5de",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ]
+}
